@@ -12,3 +12,4 @@ Debug
 /TestCondition/TestCondition/*.suo
 *.suo
 *.sdf
+*.opensdf
