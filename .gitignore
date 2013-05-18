@@ -1,7 +1,14 @@
-/TestPostMessage/ReceivePostMessageAtCSharp/obj
+/*/Release
+/*/Debug
 /TestPostMessage/TestPostMessage/Release
 /TestPostMessage/TestPostMessage/Debug
 /TestPostMessage/TestPostMessage/ipch
 /TestPostMessage/TestPostMessage/RecMFC/Release
-/ReceiveMFC/Release
+
 /TestPostMessage/TestPostMessage/testmfc/Release
+/TestCondition/TestCondition/TestCondition/Debug
+Release
+Debug
+/TestCondition/TestCondition/*.suo
+*.suo
+*.sdf
